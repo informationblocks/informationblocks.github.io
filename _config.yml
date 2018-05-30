@@ -1,0 +1,32 @@
+title: "Information Blocks"
+author: "Information Blocks"
+description: "Simple Bits of Information. No Distraction."
+baseurl: ""
+url: "https://informationblocks.github.io"
+email: "email@site.url"
+microblog_user: "enter-username"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: Europe/Berlin # A list of all available values can be found at https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+highlighter: "rouge"
+markdown: "kramdown"
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
