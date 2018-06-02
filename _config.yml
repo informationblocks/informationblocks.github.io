@@ -1,10 +1,9 @@
 title: "Information Blocks"
-author: ""
-description: ""
+author: "Information Blocks"
+description: "Simple Bits of Information. No Distraction."
 baseurl: ""
 url: "https://informationblocks.github.io"
-email: "email@site.url"
-microblog_user: "enter-username"
+email: "something@something.com"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 paginate: 20
