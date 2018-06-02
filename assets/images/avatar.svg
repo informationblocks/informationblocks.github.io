@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.2" width="28mm" height="35.82mm" viewBox="1000 507 2800 3582" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+<svg version="1.2" width="29.21mm" height="46.4mm" viewBox="900 307 2921 4640" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
  <defs class="ClipPathGroup">
   <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
-   <rect x="1000" y="507" width="2800" height="3582"/>
+   <rect x="900" y="307" width="2921" height="4640"/>
   </clipPath>
   <clipPath id="presentation_clip_path_shrink" clipPathUnits="userSpaceOnUse">
-   <rect x="1002" y="510" width="2795" height="3575"/>
+   <rect x="902" y="311" width="2916" height="4631"/>
   </clipPath>
  </defs>
  <defs>
   <font id="EmbeddedFont_1" horiz-adv-x="2048">
-   <font-face font-family="Liberation Mono embedded" units-per-em="2048" font-weight="bold" font-style="normal" ascent="1707" descent="615"/>
+   <font-face font-family="Baskerville embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1826" descent="496"/>
    <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
-   <glyph unicode="I" horiz-adv-x="953" d="M 157,1349 L 1073,1349 1073,1121 762,1121 762,228 1073,228 1073,0 157,0 157,228 468,228 468,1121 157,1121 Z"/>
-   <glyph unicode="B" horiz-adv-x="1073" d="M 1186,385 C 1186,264 1145,170 1062,102 979,34 865,0 719,0 L 137,0 137,1349 662,1349 C 807,1349 918,1320 993,1262 1068,1203 1105,1119 1105,1010 1105,933 1083,869 1039,817 995,764 927,728 836,709 950,697 1037,663 1097,607 1156,551 1186,477 1186,385 Z M 808,970 C 808,1077 752,1130 641,1130 L 432,1130 432,811 643,811 C 753,811 808,864 808,970 Z M 889,410 C 889,469 871,514 836,546 801,577 749,593 682,593 L 432,593 432,219 689,219 C 822,219 889,283 889,410 Z"/>
+   <glyph unicode="I" horiz-adv-x="636" d="M 53,1310 L 53,1356 673,1356 673,1310 644,1310 C 577,1310 534,1305 513,1294 492,1283 479,1262 472,1232 465,1202 461,1131 461,1018 L 461,353 C 461,246 464,177 469,144 474,111 487,86 509,70 530,54 572,46 633,46 L 673,46 673,0 53,0 53,46 93,46 C 151,46 191,53 214,68 236,83 250,106 256,137 262,168 265,240 265,353 L 265,1018 C 265,1126 262,1196 256,1227 250,1258 237,1280 216,1292 195,1304 151,1310 82,1310 Z"/>
+   <glyph unicode="B" horiz-adv-x="1132" d="M 713,730 C 867,719 981,680 1056,615 1131,550 1168,468 1168,370 1168,285 1143,211 1092,150 1041,88 977,48 898,29 819,10 713,0 580,0 L 48,0 48,46 100,46 C 158,46 198,53 221,68 243,83 257,106 263,137 269,168 272,240 272,353 L 272,1013 C 272,1123 269,1194 263,1226 256,1258 243,1280 223,1292 202,1304 158,1310 89,1310 L 63,1310 63,1356 286,1362 540,1370 C 911,1370 1096,1263 1096,1050 1096,962 1064,891 1001,838 937,785 841,749 713,730 Z M 468,749 C 485,748 499,748 510,748 654,748 752,771 805,816 858,861 884,935 884,1036 884,1107 874,1161 853,1200 832,1239 801,1269 760,1290 719,1311 648,1321 548,1321 522,1321 495,1320 468,1318 Z M 468,700 L 468,398 C 468,269 470,188 475,153 480,118 492,92 513,74 533,56 573,47 633,47 740,47 820,74 873,129 926,184 953,266 953,375 953,487 923,570 863,623 802,676 696,702 544,702 520,702 495,701 468,700 Z"/>
   </font>
  </defs>
  <defs class="TextShapeIndex">
@@ -60,14 +60,14 @@
      <g class="Page">
       <g class="com.sun.star.drawing.TextShape">
        <g id="id3">
-        <rect class="BoundingBox" stroke="none" fill="none" x="1000" y="507" width="1701" height="2890"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Mono" font-size="2328px" font-weight="700"><tspan class="TextPosition" x="1250" y="2571"><tspan fill="rgb(28,28,28)" stroke="none">I</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="900" y="307" width="1701" height="3948"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Baskerville" font-size="3104px" font-weight="400"><tspan class="TextPosition" x="1150" y="3218"><tspan fill="rgb(28,28,28)" stroke="none">I</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id4">
-        <rect class="BoundingBox" stroke="none" fill="none" x="2000" y="1200" width="1801" height="2890"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Mono" font-size="2328px" font-weight="700"><tspan class="TextPosition" x="2250" y="3264"><tspan fill="rgb(28,28,28)" stroke="none">B</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="1800" y="1000" width="2022" height="3948"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Baskerville" font-size="3104px" font-weight="400"><tspan class="TextPosition" x="2050" y="3911"><tspan fill="rgb(28,28,28)" stroke="none">B</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
