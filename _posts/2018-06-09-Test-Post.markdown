@@ -1,6 +1,0 @@
----
-layout: post
-title:  "Test Post"
-date:   2018-06-21 13:13:57 +0200
----
-Just another test post. Lets's update this one. Again
