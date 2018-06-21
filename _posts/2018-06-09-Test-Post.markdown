@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Test Post"
-date:   2018-06-09 11:21:09 +0200
+date:   2018-06-21 12:01:07 +0200
 ---
-Just another test post.
+Just another test post. Lets's update this one.
